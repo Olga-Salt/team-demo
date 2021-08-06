@@ -6,7 +6,7 @@
   "homepage": "https://Olga-Salt.github.io/team-demo",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /team-demo/"
   },
   "repository": {
     "type": "git",
